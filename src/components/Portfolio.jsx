@@ -9,7 +9,7 @@ const Portfolio = () => {
             id:1,
             src:textplayer,
             tittle:'TEXT-PLAYER',
-            demo:'https://github.com/avigyat/text_player.git',
+            demo:'https://silly-hotteok-9ae0ea.netlify.app/',
             code:'https://github.com/avigyat/text_player.git'
         },
         {
