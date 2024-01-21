@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/react-portfolio/static/css/main.acc14d8e.css",
+    "main.js": "/react-portfolio/static/js/main.18d35a23.js",
+    "static/media/heroimage.png": "/react-portfolio/static/media/heroimage.8f02b5dbbcc4b449e52e.png",
+    "static/media/news.jpg": "/react-portfolio/static/media/news.3dae12c5f0ada6fab2a2.jpg",
+    "static/media/text.jpg": "/react-portfolio/static/media/text.fecdb793ee370854c6a1.jpg",
+    "static/media/inotebook.jpg": "/react-portfolio/static/media/inotebook.e015f7348e5f96c9cad6.jpg",
+    "static/media/react.png": "/react-portfolio/static/media/react.0cf951a69d8e58f83f9d.png",
+    "static/media/node.png": "/react-portfolio/static/media/node.952a9ea986dcfa5229ad.png",
+    "static/media/github.png": "/react-portfolio/static/media/github.3b9e32903aa89111875d.png",
+    "static/media/html.png": "/react-portfolio/static/media/html.2ba4fabc69a89a8f71e6.png",
+    "static/media/tailwind.png": "/react-portfolio/static/media/tailwind.e47ac876b8d4d0bba47a.png",
+    "static/media/css.png": "/react-portfolio/static/media/css.69a82c2d9e45c933a9cb.png",
+    "static/media/redux.png": "/react-portfolio/static/media/redux.ec0b5d5ca7c459614253.png",
+    "static/media/bootstrap.png": "/react-portfolio/static/media/bootstrap.268c4375260420e8d982.png",
+    "static/media/mongodb-svgrepo-com.png": "/react-portfolio/static/media/mongodb-svgrepo-com.342c40086a83c5016090.png",
+    "static/media/javascript.png": "/react-portfolio/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
+    "static/media/sql.png": "/react-portfolio/static/media/sql.d85a3e63f475a637657f.png",
+    "index.html": "/react-portfolio/index.html",
+    "main.acc14d8e.css.map": "/react-portfolio/static/css/main.acc14d8e.css.map",
+    "main.18d35a23.js.map": "/react-portfolio/static/js/main.18d35a23.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.acc14d8e.css",
+    "static/js/main.18d35a23.js"
+  ]
+}
